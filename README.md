@@ -22,4 +22,5 @@ This is the user pool that would represent the company. An official from the com
 This person would also be able to add a job opening and the Hiring Manager for such a role. If a Hiring Manager is named for the role, that Hiring Manager would be able to add/edit/update the job specifications.
 
 **Video**
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55"](https://www.youtube.com/watch?v=sh5D8t5I2jo))
+
+https://www.youtube.com/watch?v=sh5D8t5I2jo
