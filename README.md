@@ -20,3 +20,6 @@ The manager can also choose to save certain profiles to view later/reconsider or
 
 This is the user pool that would represent the company. An official from the company would log in with his credentials and would be able to make an about page for the company.
 This person would also be able to add a job opening and the Hiring Manager for such a role. If a Hiring Manager is named for the role, that Hiring Manager would be able to add/edit/update the job specifications.
+
+**Video**
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55"](https://www.youtube.com/watch?v=sh5D8t5I2jo))
