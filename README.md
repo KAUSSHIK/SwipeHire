@@ -19,4 +19,4 @@ Created numerous sections in the app for a candidate to disclose their interests
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Video
-To video a [demo](https://www.youtube.com/watch?v=sh5D8t5I2jo) of the app, click on the hyperlink.
+To watch a [demo](https://www.youtube.com/watch?v=sh5D8t5I2jo) of the app, click on the hyperlink.
