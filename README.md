@@ -1,5 +1,5 @@
-# coms309
-# SwipeHire Mobile Application
+# Swipe Hire - A new way to hire and get hired
+# The Mobile Application
 We plan to make a swipe-based matching app ( like Tinder) to hire candidates for open positions. The hiring manager of a company sees the candidates and chooses who is fit for the next round of interviews. It is a new app for hiring candidates and gets hired.
 
 **Different User Pools and their Roles:**
