@@ -1,11 +1,11 @@
 # SwipeHire - A new way to hire and get hired
 ## The Mobile Application
-SwipeHire is a swipe-based matching app (like Tinder) made to streamline the recruitment process. The app serves as a portal to hire candidates for open positions. The hiring manager of a company sees the candidates and chooses who is fit for the next round of interviews by 'swiping' on them. Think of it as an offspring of LinkedIn and Tinder
+SwipeHire is a swipe-based matching app (like Tinder) made to streamline the recruitment process. The app serves as a portal to hire candidates for open positions. The hiring manager of a company sees the candidates and chooses who is fit for the next round of interviews by 'swiping' on them. Think of it as an offspring of LinkedIn and Tinder.
 
 ## Features
 The first two are mainly to aid the Hiring Manager, and the last one is a brief overview of the features the candidate can access.
 ### 1) ↔️ Swipe Functionality
-Hiring Managers will use this new method to 👍 'like', 👎 'dislike', or 🔁 'save for later' the résumés they encounter by means of swiping, just like how you would swipe on profiles on Tinder. This efficient method reduced the time spent on hiring by 40!
+Hiring Managers will use this new method to 👍 'like', 👎 'dislike', or 🔁 'save for later' the résumés they encounter by means of swiping, just like how you would swipe on profiles on Tinder. This efficient method reduced the time spent on hiring by 40%
 
 ### 2) Messaging
 What is the point of being liked by a Hiring Manager if you can not schedule an interview? To tackle this issue, our app implemented a real-time messaging technology using WebSockets where the Hiring Manager can reach out to the candidates they 'liked.'
