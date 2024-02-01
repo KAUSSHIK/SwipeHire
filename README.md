@@ -1,4 +1,4 @@
-# Swipe Hire - A new way to hire and get hired
+# SwipeHire - A new way to hire and get hired
 ## The Mobile Application
 SwipeHire is a swipe-based matching app (like Tinder) made to streamline the recruitment process. The app serves as a portal to hire candidates for open positions. The hiring manager of a company sees the candidates and chooses who is fit for the next round of interviews by 'swiping' on them. Think of it as an offspring of LinkedIn and Tinder
 
